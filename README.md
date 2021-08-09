@@ -24,6 +24,8 @@ docker-compose up
 
 This runs the app in debug mode. You should be able to use the VSCode debugger (see `.vscode/launch.json`).
 
+[Learn more about the Docker setup here.](https://blog.logrocket.com/containerized-development-nestjs-docker/)
+
 ### App commands
 
 ```bash
